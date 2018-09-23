@@ -1,1 +1,21 @@
-# Hierarchical_clustering_gl
+## Project Description 
+Hierarchical Clustering Impementation : Hierarchical clustering refers to a class of clustering methods that seek to build a hierarchy of clusters, in which some clusters contain others. In this assignment, we will explore a top-down approach, recursively bipartitioning the data using k-means.
+
+## Packages used 
+- graphlab
+- numpy
+- matplotlib 
+- copy
+- scipy.stats - csr_matrix - 
+- sys
+- os
+- time
+- sklearn.cluster - KMeans - 
+- sklearn.metrics - pairwise_distances -
+
+## Used data set 
+[people_wiki.gl](link to data you have)
+
+# Algorithms used :
+- K-means.
+- Hierarchical Clustering .
