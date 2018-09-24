@@ -14,7 +14,7 @@ Hierarchical Clustering Impementation : Hierarchical clustering refers to a clas
 - sklearn.metrics - pairwise_distances -
 
 ## Used data set 
-[people_wiki.gl](link to data you have)
+[people_wiki.gl](https://github.com/Magho/Hierarchical_clustering/tree/master/people_wiki.gl)
 
 # Algorithms used :
 - K-means.
